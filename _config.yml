@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ke Huang / Mr"
+title                    : "Ke Huang"
 title_separator          : "-"
 name                     : &name "Ke huang"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "he/him"  
+  name             : "Ke Huang"
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "China"
-  employer         : "Xian'jiaotong-Liverpool University"
+  # employer         : ""
   uri              : # URL
   email            : "ke.huang19@student.xjtlu.edu.cn" 
 
