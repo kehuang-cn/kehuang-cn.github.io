@@ -30,8 +30,8 @@ author:
 
   # Academic websites
   academia         :
-  arxiv            : "https://arxiv.org/search/?query=Ke+Huang&searchtype=author"   # 若你没有固定作者主页，可先这样；以后可换成真实作者页
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : ""   # 若你没有固定作者主页，可先这样；以后可换成真实作者页
+  googlescholar    : "https://scholar.google.com/citations?user=kOyQ7ygAAAAJ&hl"
   inspire-hep      :
   impactstory      :
   orcid            :   # 如果没有 ORCID，先留空；不要保留模板假链接
